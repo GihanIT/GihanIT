@@ -6,7 +6,7 @@
 - Building ICT courses for students aged 10 and above  
 
 ## 🌱 Currently Learning  
-- Programming, Cyber security, Computer Networks and Tutoring
+- Programming, Cyber Security, Computer Networks and Tutoring
 - Exploring other tech-related topics to improve teaching skills  
 
 ## 💞️ Looking to Collaborate On  
@@ -14,8 +14,11 @@
 - Enhancing teaching methodologies for young learners  
 
 ## 📫 How to Reach Me  
-- **linkedin** : [Gihan Harindra](#)
-- **Facebook Page**: [ICT Diff - Gihan Harindra](#) *(add the link once it's live)*  
+- **Email** : [gihanhareendra@gmail.com]
+- **about.me** : [about.me/gihanharindra](https://about.me/gihanharindra)
+- **LinkedIn** : [Gihan Harindra](https://www.linkedin.com/in/gharindra/)
+- **X.com** : [MrDevilX](https://x.com/gihan_harindra)
+- **Facebook Page**: [ICT Diff - Gihan Harindra](https://web.facebook.com/ICTDiff)
 
 ## 😄 Pronouns  
 - He/Him  
