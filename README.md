@@ -9,16 +9,9 @@
 ```
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=700&lines=Cybersecurity+Enthusiast+%F0%9F%94%90;Penetration+Tester+%F0%9F%92%BB;ICT+Educator+%F0%9F%93%9A;Instructor;Network+Security+Researcher+%F0%9F%8C%90;CTF+Player+%E2%9A%A1;Always+Hacking+%26+Learning+%F0%9F%9A%80;Developer;IT+Administrator;Blogger;" alt="Typing SVG" />
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=gihanh.visitor&left_color=black&right_color=00ff00&style=flat-square)
-
 </div>
-
-<div align="center">
-<img align="center" alt="hacking" width="100%" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZqNGIyczZ3NnE2NWswdjM2MGZmYWhrZG8xMm9mMDMyYjk5N3g0ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oVvhEYvWDvE1G/giphy.gif">
-</div>
-
-### 👨‍💻 whoami
+---
+### 👨‍💻 whoami ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=gihanh.visitor&left_color=black&right_color=00ff00&style=flat-square)
 
 ```bash
 $ cat about.txt
@@ -127,10 +120,8 @@ class CyberSecurityJourney:
 
 ---
 
-<h2 align="center">⚡ Activity Graph</h2>
-
 <div align="center">
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=GihanIT&theme=react-dark&bg_color=0D1117&color=00FF00&line=00FF00&point=00FF00&hide_border=true" />
+<img align="center" alt="hacking" width="100%" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZqNGIyczZ3NnE2NWswdjM2MGZmYWhrZG8xMm9mMDMyYjk5N3g0ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oVvhEYvWDvE1G/giphy.gif">
 </div>
 
 ---
