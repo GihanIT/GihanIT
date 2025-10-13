@@ -8,13 +8,11 @@
   ██████  ██ ██   ██ ██   ██ ██   ████     ██   ██ ██   ██ ██   ██ ██ ██   ████ ██████  ██   ██ ██   ██ 
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=700&lines=Cybersecurity+Enthusiast+%F0%9F%94%90;Penetration+Tester+%F0%9F%92%BB;ICT+Educator+%F0%9F%93%9A;Network+Security+Researcher+%F0%9F%8C%90;CTF+Player+%E2%9A%A1;Always+Hacking+%26+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=700&lines=Cybersecurity+Researcher+&+Enthusiast+%F0%9F%94%90;Penetration+Tester+%F0%9F%92%BB;ICT+Educator+%F0%9F%93%9A;Instructor;Network+Security+Researcher+%F0%9F%8C%90;CTF+Player+%E2%9A%A1;Always+Hacking+%26+Learning+%F0%9F%9A%80;Developer;IT+Administrator;Blogger;" alt="Typing SVG" />
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=gihanh.visitor&left_color=black&right_color=00ff00&style=flat-square)
 
 </div>
-
----
 
 ---
 
@@ -136,7 +134,7 @@ class CyberSecurityJourney:
 $ echo "Knowledge shared is knowledge squared"
 ```
 
-- 🏫 Teaching ICT fundamentals and programming to students aged 10+
+- 🏫 Teaching ICT fundamentals and programming to students
 - 💻 Creating engaging educational content for technology learners
 - 🔐 Introducing cybersecurity concepts and digital safety awareness
 - 🌟 Mentoring the next generation of tech enthusiasts
@@ -160,11 +158,11 @@ $ echo "Knowledge shared is knowledge squared"
 <div align="center">
 
 ```ascii
-╔═══════════════════════════════════════════════════════════════╗
+╔══════════════════════════════════════════════════════════════╗
 ║  "The only truly secure system is one that is powered off,   ║
 ║   cast in a block of concrete and sealed in a lead-lined     ║
-║   room with armed guards." - Gene Spafford                    ║
-╚═══════════════════════════════════════════════════════════════╝
+║   room with armed guards." - Gene Spafford                   ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
