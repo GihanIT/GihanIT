@@ -98,6 +98,14 @@ class CyberSecurityJourney:
 
 <div align="center">
 
+[![Holopin Badges](https://holopin.me/gihanit)](https://holopin.io/@gihanit)
+
+</div>
+
+---
+
+<div align="center">
+
 ### 📊 GitHub Stats
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=GihanIT&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=00FF00" />
@@ -123,20 +131,6 @@ class CyberSecurityJourney:
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
----
-
-<div align="center">
-<img align="center" alt="hacking" width="100%" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZqNGIyczZ3NnE2NWswdjM2MGZmYWhrZG8xMm9mMDMyYjk5N3g0ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oVvhEYvWDvE1G/giphy.gif">
-</div>
-
----
-
-<div align="center">
-
-[![Holopin Badges](https://holopin.me/gihanit)](https://holopin.io/@gihanit)
-
-</div>
 
 ---
 
