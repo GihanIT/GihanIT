@@ -1,85 +1,169 @@
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h1 align="center">Hi , I'm Gihan Harindra <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <div align="center">
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=gihanh.visitor)
+```
+  ██████  ██ ██   ██  █████  ███    ██     ██   ██  █████  ██████  ██ ███    ██ ██████  ██████   █████  
+ ██       ██ ██   ██ ██   ██ ████   ██     ██   ██ ██   ██ ██   ██ ██ ████   ██ ██   ██ ██   ██ ██   ██ 
+ ██   ███ ██ ███████ ███████ ██ ██  ██     ███████ ███████ ██████  ██ ██ ██  ██ ██   ██ ██████  ███████ 
+ ██    ██ ██ ██   ██ ██   ██ ██  ██ ██     ██   ██ ██   ██ ██   ██ ██ ██  ██ ██ ██   ██ ██   ██ ██   ██ 
+  ██████  ██ ██   ██ ██   ██ ██   ████     ██   ██ ██   ██ ██   ██ ██ ██   ████ ██████  ██   ██ ██   ██ 
+```
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=700&lines=Cybersecurity+Enthusiast+%F0%9F%94%90;Penetration+Tester+%F0%9F%92%BB;ICT+Educator+%F0%9F%93%9A;Network+Security+Researcher+%F0%9F%8C%90;CTF+Player+%E2%9A%A1;Always+Hacking+%26+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=gihanh.visitor&left_color=black&right_color=00ff00&style=flat-square)
 
 </div>
-<p align="center">  
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=ICT+Teacher/Instructor;Cyber+Security+Researcher;Developer;IT+Administrator;Blogger;Always+learning+new+things&center=true&width=700&height=70"></a>
-</p>
-<p><img align="right" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
-
-## 👀 Interests
-- ICT teaching and tutoring  
-- Creating engaging and practical educational content for learners  
-- Building ICT courses for students aged 10 and above  
-
-## 🌱 Currently Learning  
-- Programming, Cyber Security, Computer Networks and Tutoring
-- Exploring other tech-related topics to improve teaching skills  
-
-## 💞️ Looking to Collaborate On  
-- Developing ICT educational resources  
-- Enhancing teaching methodologies for young learners  
 
 ---
-[![An image of @gihanit's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gihanit)](https://holopin.io/@gihanit)
+
+<img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="cyber-gif"/>
+
+### 👨‍💻 whoami
+
+```bash
+$ cat about.txt
+```
+
+```json
+{
+  "name": "Gihan Harindra",
+  "role": "Cybersecurity Enthusiast",
+  "background": "ICT Educator",
+  "location": "Sri Lanka 🇱🇰",
+  "interests": [
+    "Penetration Testing",
+    "Network Security",
+    "Ethical Hacking",
+    "Security Research",
+    "Teaching ICT"
+  ],
+  "currently_learning": [
+    "Advanced Exploitation Techniques",
+    "Red Team Operations",
+    "Malware Analysis",
+    "Cloud Security"
+  ],
+  "motto": "break it to understand it"
+}
+```
+
 ---
-# Languages and Tools I
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
-  </a>
-</p>
-  
-</p>
+### 🎯 Current Focus
 
----
-# My GitHub Stats
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=GihanIT&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=GihanIT&theme=dark&hide_border=false" /> 
-</td>
+```python
+#!/usr/bin/env python3
 
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=GihanIT&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
+class CyberSecurityJourney:
+    def __init__(self):
+        self.skills = ["Pentesting", "Network Analysis", "OSINT", "Teaching"]
+        self.certifications_pursuing = ["CEH", "OSCP", "CompTIA Security+"]
+        
+    def daily_routine(self):
+        return [
+            "🔍 Hunt vulnerabilities",
+            "📚 Learn new attack vectors",
+            "💡 Share knowledge with students",
+            "🛡️ Build defensive strategies",
+            "⚡ Solve CTF challenges"
+        ]
+```
 
 ---
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=GihanIT&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
+
+<div align="center">
+
+### ⚡ Tech Arsenal
+
+<img src="https://skillicons.dev/icons?i=linux,kali,python,bash,js,nodejs,cpp,java&theme=dark" alt="languages"/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,github,vscode,vim,nginx&theme=dark" alt="tools"/>
+<img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,firebase,express,react,nextjs,tailwind&theme=dark" alt="frameworks"/>
+
 </div>
 
 ---
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-  </ul>
-</div>
+### 🔐 Cybersecurity Toolkit
 
-<!--icons and links-->
-<p align="center">
-<a href="https://www.linkedin.com/in/gharindra/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://x.com/gihan_harindra" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
-<a href="" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
-<a href="https://about.me/gihanharindra" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a>
-<a href="https://web.facebook.com/ICTDiff" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
-  
-</p>
+```
+🔴 Offensive Security        🔵 Defensive Security       🟢 Development
+├─ Metasploit               ├─ Wireshark                ├─ Python Scripts
+├─ Burp Suite               ├─ Snort/Suricata           ├─ Bash Automation
+├─ Nmap                     ├─ SIEM Tools               ├─ Web Apps
+├─ SQLmap                   ├─ Firewalls                ├─ Network Tools
+├─ Hydra                    └─ IDS/IPS                  └─ Pentesting Tools
+└─ Custom Exploits
+```
 
 ---
-Feel free to update this profile as your interests and projects grow! 😊
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+
+### 📊 GitHub Stats
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=GihanIT&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=00FF00" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=GihanIT&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GihanIT&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=00FF00&layout=compact&langs_count=8" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=GihanIT&theme=react-dark&bg_color=0D1117&color=00FF00&line=00FF00&point=00FF00&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 🏆 Achievement Unlocked
+
+<img width="98%" src="https://github-profile-trophy.vercel.app/?username=GihanIT&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=7" />
+
+[![Holopin Badges](https://holopin.me/gihanit)](https://holopin.io/@gihanit)
+
+</div>
+
+---
+
+### 🎓 Teaching & Sharing Knowledge
+
+```bash
+# As an ICT educator, I believe in:
+$ echo "Knowledge shared is knowledge squared"
+```
+
+- 🏫 Teaching ICT fundamentals to students aged 10+
+- 💻 Creating practical cybersecurity awareness content
+- 🔐 Bridging the gap between theory and real-world security
+- 🌟 Mentoring aspiring security enthusiasts
+
+---
+
+<div align="center">
+
+### 🔗 Connect With Me
+
+<a href="https://www.linkedin.com/in/gharindra/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://x.com/gihan_harindra"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+<a href="https://web.facebook.com/ICTDiff"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+<a href="https://about.me/gihanharindra"><img src="https://img.shields.io/badge/About.me-000000?style=for-the-badge&logo=about.me&logoColor=00FF00" alt="About.me"/></a>
+
+</div>
+
+---
+
+<div align="center">
+
+```ascii
+╔═══════════════════════════════════════════════════════════════╗
+║  "The only truly secure system is one that is powered off,   ║
+║   cast in a block of concrete and sealed in a lead-lined     ║
+║   room with armed guards." - Gene Spafford                    ║
+╚═══════════════════════════════════════════════════════════════╝
+```
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
+### 💚 Thanks for visiting! Let's make the digital world more secure together!
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+</div>
