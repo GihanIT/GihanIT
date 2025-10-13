@@ -16,9 +16,16 @@
 
 ---
 
+---
+
 <div align="center">
-[![An image of @gihanit's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gihanit)](https://holopin.io/@gihanit)
+
+[![Holopin Badges](https://holopin.me/gihanit)](https://holopin.io/@gihanit)
+
 </div>
+
+---
+
 ### 👨‍💻 whoami
 
 ```bash
@@ -129,7 +136,7 @@ class CyberSecurityJourney:
 $ echo "Knowledge shared is knowledge squared"
 ```
 
-- 🏫 Teaching ICT fundamentals and programming to students
+- 🏫 Teaching ICT fundamentals and programming to students aged 10+
 - 💻 Creating engaging educational content for technology learners
 - 🔐 Introducing cybersecurity concepts and digital safety awareness
 - 🌟 Mentoring the next generation of tech enthusiasts
@@ -153,11 +160,11 @@ $ echo "Knowledge shared is knowledge squared"
 <div align="center">
 
 ```ascii
-╔══════════════════════════════════════════════════════════════╗
+╔═══════════════════════════════════════════════════════════════╗
 ║  "The only truly secure system is one that is powered off,   ║
 ║   cast in a block of concrete and sealed in a lead-lined     ║
-║   room with armed guards." - Gene Spafford                   ║
-╚══════════════════════════════════════════════════════════════╝
+║   room with armed guards." - Gene Spafford                    ║
+╚═══════════════════════════════════════════════════════════════╝
 ```
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
