@@ -24,6 +24,8 @@
 - Enhancing teaching methodologies for young learners  
 
 ---
+[![An image of @gihanit's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gihanit)](https://holopin.io/@gihanit)
+---
 # Languages and Tools I
 
 <p align="center">
