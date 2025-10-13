@@ -8,7 +8,7 @@
   ██████  ██ ██   ██ ██   ██ ██   ████     ██   ██ ██   ██ ██   ██ ██ ██   ████ ██████  ██   ██ ██   ██ 
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=700&lines=Cybersecurity+Researcher+&+Enthusiast+%F0%9F%94%90;Penetration+Tester+%F0%9F%92%BB;ICT+Educator+%F0%9F%93%9A;Instructor;Network+Security+Researcher+%F0%9F%8C%90;CTF+Player+%E2%9A%A1;Always+Hacking+%26+Learning+%F0%9F%9A%80;Developer;IT+Administrator;Blogger;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=700&lines=Cybersecurity+Enthusiast+%F0%9F%94%90;Penetration+Tester+%F0%9F%92%BB;ICT+Educator+%F0%9F%93%9A;Instructor;Network+Security+Researcher+%F0%9F%8C%90;CTF+Player+%E2%9A%A1;Always+Hacking+%26+Learning+%F0%9F%9A%80;Developer;IT+Administrator;Blogger;" alt="Typing SVG" />
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=gihanh.visitor&left_color=black&right_color=00ff00&style=flat-square)
 
