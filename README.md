@@ -16,9 +16,7 @@
 
 <div align="center">
 <img align="center" alt="hacking" width="100%" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3piaHl6c2g5MXZ4ZHh0MGZ1czk0YTYxbXdlZHc2MHpzem9seW10dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fdOA43sHFE6Pu/giphy.gif">
-
 </div>
----
 
 ### 👨‍💻 whoami
 
