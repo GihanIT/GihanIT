@@ -10,8 +10,13 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=700&lines=Cybersecurity+Enthusiast+%F0%9F%94%90;Penetration+Tester+%F0%9F%92%BB;ICT+Educator+%F0%9F%93%9A;Instructor;Network+Security+Researcher+%F0%9F%8C%90;CTF+Player+%E2%9A%A1;Always+Hacking+%26+Learning+%F0%9F%9A%80;Developer;IT+Administrator;Blogger;" alt="Typing SVG" />
 </div>
+<div align="center">
+  
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=gihanh.visitor&left_color=gray&right_color=red&style=flat-square)&nbsp; 
+[![GitHub GihanIT](https://img.shields.io/github/followers/GihanIT?label=follow&style=social)](https://github.com/GihanIT)&nbsp;
+<a href="https://blog.ictdiff.lk" target="_blank"><img src="https://img.shields.io/badge/Blog-0BDB8F?style=flat&logo=googlechrome&logoColor=white" alt="Blog"/></a>&nbsp;
 
-### 👨‍💻 whoami ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=gihanh.visitor&left_color=black&right_color=00ff00&style=flat-square)
+### 👨‍💻 whoami 
 
 ```bash
 $ cat about.txt
@@ -162,11 +167,14 @@ $ echo "Knowledge shared is knowledge squared"
 <div align="center">
 
 ### 🔗 Connect With Me
-
+<a href="https://www.ictdiff.lk" target="_blank"><img src="https://img.shields.io/badge/ICTDIFF.LK-008000?style=for-the-badge&logo=internet-explorer&logoColor=FFFFFF" alt="ICTDIFF.LK"/></a>
 <a href="https://www.linkedin.com/in/gharindra/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://x.com/gihan_harindra"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
 <a href="https://web.facebook.com/ICTDiff"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
-<a href="https://about.me/gihanharindra"><img src="https://img.shields.io/badge/About.me-000000?style=for-the-badge&logo=about.me&logoColor=00FF00" alt="About.me"/></a>
+<a href="https://www.youtube.com/@ictdiff" target="_blank"><img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=FFFFFF" alt="YouTube"/></a>
+<a href="https://www.tiktok.com/@ictdiff" target="_blank"><img src="https://img.shields.io/badge/TIKTOK-000000?style=for-the-badge&logo=tiktok&logoColor=FFFFFF" alt="TikTok"/></a>
+
+
 
 </div>
 
@@ -184,7 +192,7 @@ $ echo "Knowledge shared is knowledge squared"
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
-### 💚 Thanks for visiting! Let's make the digital world more secure together!
+### 💚 Thanks for visiting!
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
