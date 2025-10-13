@@ -16,26 +16,11 @@
 
 ---
 
+<div align="center">
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="hacker-banner"/>
+</div>
+
 ### 👨‍💻 whoami
-
-<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="hacker"/>
-
-```
-    _____      ______  ______  ______  ______ 
-   / ____|    / ____/ |  ____||  ____||  ____|
-  | |  __    | |      | |__   | |__   | |__   
-  | | |_ |   | |      |  __|  |  __|  |  __|  
-  | |__| |   | |____  | |____ | |____ | |____ 
-   \_____|    \_____/ |______||______||______|
-                                              
-        ▄▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▄
-        █░░▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░█
-        █░▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░█
-         █░▒▒▒▒▒▒▒▒▒▒▒▒▒▒░█
-          █░▒▒▒▒▒▒▒▒▒▒▒▒░█
-           ▀▀▀▀▀▀▀▀▀▀▀▀▀▀
-           ANONYMOUS
-```
 
 ```bash
 $ cat about.txt
@@ -171,11 +156,11 @@ $ echo "Knowledge shared is knowledge squared"
 <div align="center">
 
 ```ascii
-╔═══════════════════════════════════════════════════════════════╗
+╔══════════════════════════════════════════════════════════════╗
 ║  "The only truly secure system is one that is powered off,   ║
 ║   cast in a block of concrete and sealed in a lead-lined     ║
-║   room with armed guards." - Gene Spafford                    ║
-╚═══════════════════════════════════════════════════════════════╝
+║   room with armed guards." - Gene Spafford                   ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
