@@ -13,15 +13,6 @@
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=gihanh.visitor&left_color=black&right_color=00ff00&style=flat-square)
 
 </div>
-
----
-
-<div align="center">
-
-[![Holopin Badges](https://holopin.me/gihanit)](https://holopin.io/@gihanit)
-
-</div>
-
 ---
 
 ### 👨‍💻 whoami
@@ -112,6 +103,38 @@ class CyberSecurityJourney:
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GihanIT&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=00FF00&layout=compact&langs_count=8" />
 <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=GihanIT&theme=react-dark&bg_color=0D1117&color=00FF00&line=00FF00&point=00FF00&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 📈 Profile Summary Cards
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GihanIT&theme=2077" height="180em" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GihanIT&theme=2077" height="180em" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GihanIT&theme=2077" height="180em" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GihanIT&theme=2077" height="180em" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GihanIT&theme=2077" height="180em" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+---
+
+<h2 align="center">⚡ Activity Graph</h2>
+
+<div align="center">
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=GihanIT&theme=react-dark&bg_color=0D1117&color=00FF00&line=00FF00&point=00FF00&hide_border=true" />
+</div>
+
+---
+
+<div align="center">
+
+[![Holopin Badges](https://holopin.me/gihanit)](https://holopin.io/@gihanit)
 
 </div>
 
