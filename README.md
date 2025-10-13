@@ -15,7 +15,7 @@
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=gihanh.visitor&left_color=gray&right_color=red&style=flat-square)&nbsp; 
 [![GitHub GihanIT](https://img.shields.io/github/followers/GihanIT?label=follow&style=social)](https://github.com/GihanIT)&nbsp;
 <a href="https://blog.ictdiff.lk" target="_blank"><img src="https://img.shields.io/badge/Blog-0BDB8F?style=flat&logo=googlechrome&logoColor=white" alt="Blog"/></a>&nbsp;
-
+</div>
 ### 👨‍💻 whoami 
 
 ```bash
