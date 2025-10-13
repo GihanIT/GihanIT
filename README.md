@@ -13,6 +13,11 @@
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=gihanh.visitor&left_color=black&right_color=00ff00&style=flat-square)
 
 </div>
+
+<div align="center">
+<img align="center" alt="hacking" width="335" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjF3Nm5ydW9vMmxyNWJydDRydG1kdXdhb3B1MmQxdnR5MTltZHBxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fARC3iJZrP70VMefaN/giphy.gif">
+
+</div>
 ---
 
 ### 👨‍💻 whoami
