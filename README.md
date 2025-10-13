@@ -17,11 +17,8 @@
 ---
 
 <div align="center">
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="hacker-banner"/>
+[![An image of @gihanit's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gihanit)](https://holopin.io/@gihanit)
 </div>
----
-[![Holopin Badges](https://holopin.me/gihanit)](https://holopin.io/@gihanit)
----
 ### 👨‍💻 whoami
 
 ```bash
